@@ -1,11 +1,15 @@
 package com.encoder_decoder.serializable;
 
+import org.msgpack.annotation.Message;
+
 import java.io.Serializable;
 import java.nio.ByteBuffer;
 
 /**
  * Created by zhujiating on 2017/7/10.
  */
+
+@Message
 public class UserInfo implements Serializable{
     private final long serialVersionUid = 1L;
     private String userName;
