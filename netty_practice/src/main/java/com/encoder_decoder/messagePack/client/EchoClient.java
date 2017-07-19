@@ -57,7 +57,7 @@ public class EchoClient {
      }
 
      public static void main(String[] args){
-         EchoClient client = new EchoClient("localhost",8080,5);
+         EchoClient client = new EchoClient("localhost",8080,1000);
          client.run();
      }
 
