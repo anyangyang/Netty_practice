@@ -2,45 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1484fb3e-3078-4d5d-8bfe-d72189b87297" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_1_3_0_CR9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_serial_1_3_0_CR9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/client/MarshallingClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/client/MarshallingClientHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/server/MarshallingHandler.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/netty_practice/netty_practice.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/DelimiterDecoder/client/EchoClient$1.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/DelimiterDecoder/client/EchoClient$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/DelimiterDecoder/client/EchoClient.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/DelimiterDecoder/client/EchoClient.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/DelimiterDecoder/server/EchoServer$1.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/DelimiterDecoder/server/EchoServer$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/DelimiterDecoder/server/EchoServer.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/DelimiterDecoder/server/EchoServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/DelimiterDecoder/server/EchoServerHandler.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/DelimiterDecoder/server/EchoServerHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/FixedLengthDecoder/EchoServer$1.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/FixedLengthDecoder/EchoServer$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/FixedLengthDecoder/EchoServer.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/FixedLengthDecoder/EchoServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/FixedLengthDecoder/EchoServerHandler.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/FixedLengthDecoder/EchoServerHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/LineBaseFrameDecoder/client/ClientServer$1.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/LineBaseFrameDecoder/client/ClientServer$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/LineBaseFrameDecoder/client/ClientServer.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/LineBaseFrameDecoder/client/ClientServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/LineBaseFrameDecoder/server/TimeServer.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/LineBaseFrameDecoder/server/TimeServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/LineBaseFrameDecoder/server/TimeServerHandler.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/LineBaseFrameDecoder/server/TimeServerHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/adhesivePackage/client/ClientServer$1.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/adhesivePackage/client/ClientServer$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/adhesivePackage/client/ClientServer.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/adhesivePackage/client/ClientServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/adhesivePackage/server/TimeServer.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/adhesivePackage/server/TimeServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/adhesivePackage/server/TimeServerHandler.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/adhesivePackage/server/TimeServerHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/encoder_decoder/messagePack/client/EchoClient$1.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/encoder_decoder/messagePack/client/EchoClient$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/encoder_decoder/messagePack/client/EchoClient.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/encoder_decoder/messagePack/client/EchoClient.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/encoder_decoder/messagePack/server/EchoServer$1.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/encoder_decoder/messagePack/server/EchoServer$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/encoder_decoder/messagePack/server/EchoServer.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/encoder_decoder/messagePack/server/EchoServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/encoder_decoder/messagePack/server/EchoServerHandler.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/encoder_decoder/messagePack/server/EchoServerHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/encoder_decoder/serializable/UserInfo.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/encoder_decoder/serializable/UserInfo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/netty/client/ClientServer$1.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/netty/client/ClientServer$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/netty/client/ClientServer.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/netty/client/ClientServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/netty/server/TimeServer.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/netty/server/TimeServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/target/classes/com/netty/server/TimeServerHandler.class" afterPath="$PROJECT_DIR$/netty_practice/target/classes/com/netty/server/TimeServerHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/MarshallingCodeFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/encoder_decoder/NettyMarshallingDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/encoder_decoder/NettyMarshallingEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/encoder_decoder/NettyMessageEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/nettyMessage/NettyHeader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/nettyMessage/NettyMessage.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NIO_practice.iml" afterPath="$PROJECT_DIR$/NIO_practice.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/.idea/workspace.xml" afterPath="$PROJECT_DIR$/netty_practice/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/pom.xml" afterPath="$PROJECT_DIR$/netty_practice/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/messagePack/client/EchoClient.java" afterPath="$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/messagePack/client/EchoClient.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/netty_practice/target/" />
@@ -63,76 +31,121 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty_practice/pom.xml">
+      <file leaf-file-name="NettyMessage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/nettyMessage/NettyMessage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+            <state relative-caret-position="-542">
+              <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <folding>
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NettyHeader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/nettyMessage/NettyHeader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#871#887#0" expanded="true" />
+                <element signature="e#921#922#0" expanded="true" />
+                <element signature="e#951#952#0" expanded="true" />
+                <element signature="e#984#985#0" expanded="true" />
+                <element signature="e#1016#1017#0" expanded="true" />
+                <element signature="e#1063#1064#0" expanded="true" />
+                <element signature="e#1105#1106#0" expanded="true" />
+                <element signature="e#1139#1140#0" expanded="true" />
+                <element signature="e#1171#1172#0" expanded="true" />
+                <element signature="e#1219#1220#0" expanded="true" />
+                <element signature="e#1261#1262#0" expanded="true" />
+                <element signature="e#1293#1294#0" expanded="true" />
+                <element signature="e#1323#1324#0" expanded="true" />
+                <element signature="e#1367#1368#0" expanded="true" />
+                <element signature="e#1405#1406#0" expanded="true" />
+                <element signature="e#1438#1439#0" expanded="true" />
+                <element signature="e#1469#1470#0" expanded="true" />
+                <element signature="e#1515#1516#0" expanded="true" />
+                <element signature="e#1555#1556#0" expanded="true" />
+                <element signature="e#1605#1606#0" expanded="true" />
+                <element signature="e#1638#1639#0" expanded="true" />
+                <element signature="e#1703#1704#0" expanded="true" />
+                <element signature="e#1747#1748#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MarshallingCodeFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/MarshallingCodeFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NettyMarshallingEncoder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/encoder_decoder/NettyMarshallingEncoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NettyMessageEncoder.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/encoder_decoder/NettyMessageEncoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="89" column="1" lean-forward="true" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ByteBuf.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/io/netty/netty-all/5.0.0.Alpha2/netty-all-5.0.0.Alpha2-sources.jar!/io/netty/buffer/ByteBuf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="853" column="30" lean-forward="true" selection-start-line="853" selection-start-column="30" selection-end-line="853" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MarShallingServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/server/MarShallingServer.java">
+      <file leaf-file-name="NettyMarshallingDecoder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/encoder_decoder/NettyMarshallingDecoder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="805">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-              <folding>
-                <element signature="e#981#1481#0" expanded="true" />
-                <element signature="e#1480#1481#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MarshallingClient.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/client/MarshallingClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="33" column="52" lean-forward="false" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+            <state relative-caret-position="270">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1030#1496#0" expanded="true" />
-                <element signature="e#1495#1496#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MarshallingClientHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/client/MarshallingClientHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="38" column="46" lean-forward="false" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MarshallingHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/server/MarshallingHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MarShallingCodeFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/MarShallingCodeFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="886">
-              <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -176,6 +189,12 @@
         <option value="$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/client/MarshallingClientHandler.java" />
         <option value="$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/server/MarshallingHandler.java" />
         <option value="$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/MarShallingCodeFactory.java" />
+        <option value="$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/nettyMessage/NettyHeader.java" />
+        <option value="$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/nettyMessage/NettyMessage.java" />
+        <option value="$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/encoder_decoder/NettyMarshallingDecoder.java" />
+        <option value="$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/encoder_decoder/NettyMarshallingEncoder.java" />
+        <option value="$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/MarshallingCodeFactory.java" />
+        <option value="$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/encoder_decoder/NettyMessageEncoder.java" />
       </list>
     </option>
   </component>
@@ -380,6 +399,80 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: io.netty:netty-all:5.0.0.Alpha2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netty-all-5.0.0.Alpha2.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NIO_practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: io.netty:netty-all:5.0.0.Alpha2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netty-all-5.0.0.Alpha2.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NIO_practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: io.netty:netty-all:5.0.0.Alpha2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netty-all-5.0.0.Alpha2.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="buffer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NIO_practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="NIO_practice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -527,6 +620,14 @@
               <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protocolStackDesign" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nettyMessage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -555,6 +656,44 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protocolStackDesign" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NIO_practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NIO_practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="netty_practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protocolStackDesign" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -591,18 +730,6 @@
               <option name="myItemId" value="com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="encoder_decoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="messagePack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -635,52 +762,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="encoder_decoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="messagePack" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NIO_practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NIO_practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="netty_practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="encoder_decoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarShallingTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1314,15 +1395,16 @@
       <workItem from="1499505849802" duration="128000" />
       <workItem from="1500342712217" duration="2024000" />
       <workItem from="1500360441048" duration="68000" />
-      <workItem from="1500429163696" duration="8125000" />
+      <workItem from="1500429163696" duration="23727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53654000" />
+    <option name="totallyTimeSpent" value="69256000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1924" height="1056" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1345,7 +1427,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39804772" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39804772" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1372,40 +1454,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/netty_practice/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lima/nio/NIO2/server/TimeServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/lima/nio/NIO2/server/AcceptHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/MarShallingCodeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/lima/nio/NIO2/server/ReadCompletionHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -1439,8 +1487,8 @@
         <state relative-caret-position="980">
           <caret line="45" column="43" lean-forward="false" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
           <folding>
-            <element signature="e#981#1481#0" expanded="true" />
-            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#981#1481#0" expanded="false" />
+            <element signature="e#1480#1481#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1458,7 +1506,7 @@
         <state relative-caret-position="588">
           <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="34" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1680,31 +1728,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/netty_practice/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/messagePack/client/EchoClientHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
           <caret line="41" column="5" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/client/MarshallingClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="38" column="46" lean-forward="false" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1732,23 +1760,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/MarShallingCodeFactory.java">
+    <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/nettyMessage/NettyBody.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="886">
-          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="140">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/server/MarshallingHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="945">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/client/MarshallingClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="38" column="46" lean-forward="false" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#452#453#0" expanded="false" />
+            <element signature="e#496#497#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/messagePack/messagePackEncode/MsgPackEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty_practice/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1757,20 +1811,142 @@
         <state relative-caret-position="805">
           <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding>
-            <element signature="e#981#1481#0" expanded="true" />
-            <element signature="e#1480#1481#0" expanded="true" />
+            <element signature="e#981#1481#0" expanded="false" />
+            <element signature="e#1480#1481#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/client/MarshallingClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
+        <state relative-caret-position="-178">
           <caret line="33" column="52" lean-forward="false" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
           <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1030#1496#0" expanded="false" />
+            <element signature="e#1495#1496#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/messagePack/messagePackDecode/MsgPackDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/nettyMessage/NettyMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-542">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/encoder_decoder/MarShallingTest/MarShallingCodeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-262">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/nettyMessage/NettyHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1030#1496#0" expanded="true" />
-            <element signature="e#1495#1496#0" expanded="true" />
+            <element signature="e#871#887#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1105#1106#0" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+            <element signature="e#1171#1172#0" expanded="true" />
+            <element signature="e#1219#1220#0" expanded="true" />
+            <element signature="e#1261#1262#0" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
+            <element signature="e#1323#1324#0" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
+            <element signature="e#1405#1406#0" expanded="true" />
+            <element signature="e#1438#1439#0" expanded="true" />
+            <element signature="e#1469#1470#0" expanded="true" />
+            <element signature="e#1515#1516#0" expanded="true" />
+            <element signature="e#1555#1556#0" expanded="true" />
+            <element signature="e#1605#1606#0" expanded="true" />
+            <element signature="e#1638#1639#0" expanded="true" />
+            <element signature="e#1703#1704#0" expanded="true" />
+            <element signature="e#1747#1748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/MarshallingCodeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/encoder_decoder/NettyMarshallingEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/encoder_decoder/NettyMarshallingDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/netty/netty-all/5.0.0.Alpha2/netty-all-5.0.0.Alpha2-sources.jar!/io/netty/buffer/ByteBuf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="853" column="30" lean-forward="true" selection-start-line="853" selection-start-column="30" selection-end-line="853" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty_practice/src/main/java/com/protocolStackDesign/encoder_decoder/NettyMessageEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="89" column="1" lean-forward="true" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
           </folding>
         </state>
       </provider>
